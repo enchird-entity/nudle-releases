@@ -1,4 +1,4 @@
-# Nudle Release
+# Nudle Releases
 This is the primary repo for Nudle releases.
 
 Download nudle for all channels:
